@@ -1,0 +1,17 @@
+backend/target/
+*.class
+*.jar
+
+.idea/
+*.iml
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+.vscode/
+
+.env
+*.env.local
+
+.DS_Store
